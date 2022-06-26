@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Eprodcast_Task/static/css/main.4455d089.css",
+    "main.js": "/Eprodcast_Task/static/js/main.bba678d7.js",
+    "index.html": "/Eprodcast_Task/index.html",
+    "main.4455d089.css.map": "/Eprodcast_Task/static/css/main.4455d089.css.map",
+    "main.bba678d7.js.map": "/Eprodcast_Task/static/js/main.bba678d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4455d089.css",
+    "static/js/main.bba678d7.js"
+  ]
+}
